@@ -42,3 +42,11 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <a href="https://www.youtube.com/@willy_frxz2550">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
 </a>
+
+---
+
+<p align="center">
+  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+</p>
+
+---
