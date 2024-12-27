@@ -19,6 +19,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="jr563384@gmail.com">jr563384@gmail.com</a>
+- Check out <a href="https://juanfrxz.github.io/PortafolioWeb/">My Portfolio💼</a>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -29,7 +30,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,github,html,java,js,linux,mysql,nodejs,py,react,ts,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,github,html,java,js,linux,py,react,vscode" />
   </a>
 </p>
 
