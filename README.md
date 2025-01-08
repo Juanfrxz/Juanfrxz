@@ -60,7 +60,11 @@ I am a computer engineering student, currently halfway through my degree. I am e
 [![](https://github-readme-stats.vercel.app/api?username=Juanfrxz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Juanfrxz)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Juanfrxz&theme=material-palenight)](https://github.com/Juanfrxz)
 </div>
-
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Juanfrxz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
 <p align="center">
   <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
 </p>
