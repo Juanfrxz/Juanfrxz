@@ -30,7 +30,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,figma,github,html,java,js,linux,py,react,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,py,vscode" />
   </a>
 </p>
 
