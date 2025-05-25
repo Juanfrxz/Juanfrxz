@@ -13,8 +13,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - 🌱 I’m currently learning ...
   - JavaScript
   - Python
-  - Html
-  - Css
+  - MySql
+  - .Net
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
