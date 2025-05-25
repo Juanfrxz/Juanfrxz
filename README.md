@@ -28,11 +28,55 @@ I am a computer engineering student, currently halfway through my degree. I am e
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,figma,github,html,js,linux,py,vscode,c#" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="128">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
+      <br>MySQL
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>VSCode
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="128">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
+      <br>GitHub
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode" />
+      <br>VSCode
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="128">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
 
 
 <!-- Connect with me -->
