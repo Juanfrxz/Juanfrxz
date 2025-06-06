@@ -50,7 +50,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
     </td>
     <td align="center" width="128">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>VSCode
+      <br>C#
     </td>
   </tr>
   <tr>
