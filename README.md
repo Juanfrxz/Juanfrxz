@@ -12,7 +12,7 @@
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - JavaScript
-  - Python
+  - React
   - MySql
   - .Net
 - 👯 I’m looking forward to collaborate on open source projects.
@@ -55,8 +55,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
   </tr>
   <tr>
     <td align="center" width="128">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
-      <br>GitHub
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
+      <br>React
     </td>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode" />
