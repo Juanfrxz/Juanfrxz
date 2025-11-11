@@ -5,16 +5,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
 </div>
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lxNjRjejR3a2p1NWVvbW85aTA5ajR4OGJmdmNhczNvbmtsdHNkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif"/>
+
+<!-- <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />  -->
 
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="30px">&nbsp;***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - JavaScript
-  - React
-  - MySql
-  - .Net
+Software developer. Expanding my knowledge in front-end and back-end development. I love learning and creating new, productive, innovative, and creative things.
+
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
@@ -59,16 +57,16 @@ I am a computer engineering student, currently halfway through my degree. I am e
       <br>React
     </td>
     <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode" />
-      <br>VSCode
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" height="60" alt="VSCode" />
+      <br>Git/Github
     </td>
     <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=html" width="60" height="60" alt="HTML" />
-      <br>HTML
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="60" height="60" alt="HTML" />
+      <br>Sass
     </td>
     <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=css" width="60" height="60" alt="CSS" />
-      <br>CSS
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="CSS" />
+      <br>Docker
     </td>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="60" height="60" alt="Bootstrap" />
