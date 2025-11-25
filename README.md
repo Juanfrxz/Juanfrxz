@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi , I'm Juan David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <div align="center">
+
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
 
@@ -18,6 +19,8 @@ Software developer. Expanding my knowledge in front-end and back-end development
 - Outside tech, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
 - 📫 Reach out to me at: <a href="jr563384@gmail.com">jr563384@gmail.com</a>
 - Check out <a href="https://juanfrxz.github.io/PortafolioWeb/">My Portfolio💼</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Juanfrxz&label=Profile%20views&color=0e75b6&style=flat" alt="Juanfxrz" /> </p>
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
