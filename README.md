@@ -109,7 +109,7 @@ Software developer. Expanding my knowledge in front-end and back-end development
     </a>
 </div>
 <p align="center">
-  <img src="https://github.com/StefanosSt/StefanosSt/blob/main/github-user-contribution.svg" alt="snake">
+  <img src="https://github.com/user-attachments/assets/1e191f57-b3d9-4b84-ad45-d32db82a4dce" alt="snake">
 </p>
 
 ---
